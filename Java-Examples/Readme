@@ -1,0 +1,32 @@
+This repository is a collection of Java programs and exercises that I am working on while following this Java tutorial series on YouTube. 
+Each folder contains code snippets and example programs that demonstrate different Java concepts.
+
+Repository Structure
+BasicSyntax: Contains examples of basic Java syntax, including variables, control flow statements, and fundamental programming concepts.
+ObjectOrientedProgramming: Demonstrates object-oriented programming principles such as classes, objects, inheritance, and polymorphism.
+DataStructures: Covers common data structures like arrays, lists, and maps, with examples on how to use them.
+Algorithms: Includes implementations of common algorithms such as sorting, searching, and recursion.
+
+Java-Examples/
+│
+├── BasicSyntax/
+│   ├── HelloWorld.java
+│   ├── Variables.java
+│   └── ControlFlow.java
+│
+├── ObjectOrientedProgramming/
+│   ├── ClassesAndObjects.java
+│   ├── Inheritance.java
+│   └── Polymorphism.java
+│
+├── DataStructures/
+│   ├── Arrays.java
+│   ├── Lists.java
+│   └── Maps.java
+│
+├── Algorithms/
+│   ├── Sorting.java
+│   ├── Searching.java
+│   └── Recursion.java
+│
+└── README.md
